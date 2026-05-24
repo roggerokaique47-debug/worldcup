@@ -1,0 +1,626 @@
+{
+  "bolao_info": {
+    "id": "bolao_20260524_184557",
+    "name": "Bolão Copa do Mundo 2026 - Final",
+    "status": "finalized",
+    "created_at": "2026-05-24T18:45:57.263220",
+    "finalized_at": "2026-05-24T18:45:57.282602"
+  },
+  "financial": {
+    "total_collected": 2000.0,
+    "platform_fee_10pct": 200.0,
+    "creator_rake_5pct": 100.0,
+    "prize_pool": 1700.0,
+    "prize_distribution": {
+      "1st_place_50pct": 850.0,
+      "2nd_place_30pct": 510.0,
+      "3rd_place_20pct": 340.0
+    }
+  },
+  "players_count": 20,
+  "games_count": 48,
+  "rankings": [
+    {
+      "rank": 1,
+      "player_id": "player_013",
+      "name": "Gabriel Rocha",
+      "total_points": 370,
+      "exact_scores": 6,
+      "group_1st_correct": 4,
+      "group_1st_2nd_correct": 2,
+      "prize": 850.0
+    },
+    {
+      "rank": 2,
+      "player_id": "player_006",
+      "name": "Lucia Pereira",
+      "total_points": 350,
+      "exact_scores": 6,
+      "group_1st_correct": 4,
+      "group_1st_2nd_correct": 2,
+      "prize": 510.0
+    },
+    {
+      "rank": 3,
+      "player_id": "player_015",
+      "name": "Lucas Martins",
+      "total_points": 310,
+      "exact_scores": 6,
+      "group_1st_correct": 1,
+      "group_1st_2nd_correct": 0,
+      "prize": 340.0
+    },
+    {
+      "rank": 4,
+      "player_id": "player_007",
+      "name": "Marcos Rodrigues",
+      "total_points": 310,
+      "exact_scores": 4,
+      "group_1st_correct": 4,
+      "group_1st_2nd_correct": 2,
+      "prize": 0.0
+    },
+    {
+      "rank": 5,
+      "player_id": "player_020",
+      "name": "Beatriz Araújo",
+      "total_points": 300,
+      "exact_scores": 5,
+      "group_1st_correct": 4,
+      "group_1st_2nd_correct": 2,
+      "prize": 0.0
+    },
+    {
+      "rank": 6,
+      "player_id": "player_004",
+      "name": "Ana Costa",
+      "total_points": 290,
+      "exact_scores": 8,
+      "group_1st_correct": 1,
+      "group_1st_2nd_correct": 0,
+      "prize": 0.0
+    },
+    {
+      "rank": 7,
+      "player_id": "player_001",
+      "name": "João Silva",
+      "total_points": 280,
+      "exact_scores": 5,
+      "group_1st_correct": 1,
+      "group_1st_2nd_correct": 0,
+      "prize": 0.0
+    },
+    {
+      "rank": 8,
+      "player_id": "player_014",
+      "name": "Patricia Dias",
+      "total_points": 270,
+      "exact_scores": 5,
+      "group_1st_correct": 1,
+      "group_1st_2nd_correct": 0,
+      "prize": 0.0
+    },
+    {
+      "rank": 9,
+      "player_id": "player_016",
+      "name": "Roberta Cunha",
+      "total_points": 260,
+      "exact_scores": 4,
+      "group_1st_correct": 1,
+      "group_1st_2nd_correct": 0,
+      "prize": 0.0
+    },
+    {
+      "rank": 10,
+      "player_id": "player_017",
+      "name": "Felipe Barbosa",
+      "total_points": 260,
+      "exact_scores": 1,
+      "group_1st_correct": 4,
+      "group_1st_2nd_correct": 2,
+      "prize": 0.0
+    },
+    {
+      "rank": 11,
+      "player_id": "player_011",
+      "name": "Bruno Carvalho",
+      "total_points": 240,
+      "exact_scores": 4,
+      "group_1st_correct": 1,
+      "group_1st_2nd_correct": 0,
+      "prize": 0.0
+    },
+    {
+      "rank": 12,
+      "player_id": "player_003",
+      "name": "Pedro Oliveira",
+      "total_points": 240,
+      "exact_scores": 3,
+      "group_1st_correct": 1,
+      "group_1st_2nd_correct": 0,
+      "prize": 0.0
+    },
+    {
+      "rank": 13,
+      "player_id": "player_005",
+      "name": "Carlos Ferreira",
+      "total_points": 240,
+      "exact_scores": 1,
+      "group_1st_correct": 4,
+      "group_1st_2nd_correct": 2,
+      "prize": 0.0
+    },
+    {
+      "rank": 14,
+      "player_id": "player_002",
+      "name": "Maria Santos",
+      "total_points": 230,
+      "exact_scores": 3,
+      "group_1st_correct": 1,
+      "group_1st_2nd_correct": 0,
+      "prize": 0.0
+    },
+    {
+      "rank": 15,
+      "player_id": "player_012",
+      "name": "Camila Mendes",
+      "total_points": 230,
+      "exact_scores": 3,
+      "group_1st_correct": 1,
+      "group_1st_2nd_correct": 0,
+      "prize": 0.0
+    },
+    {
+      "rank": 16,
+      "player_id": "player_018",
+      "name": "Amanda Ribeiro",
+      "total_points": 220,
+      "exact_scores": 1,
+      "group_1st_correct": 4,
+      "group_1st_2nd_correct": 2,
+      "prize": 0.0
+    },
+    {
+      "rank": 17,
+      "player_id": "player_019",
+      "name": "Rodrigo Gomes",
+      "total_points": 210,
+      "exact_scores": 5,
+      "group_1st_correct": 1,
+      "group_1st_2nd_correct": 0,
+      "prize": 0.0
+    },
+    {
+      "rank": 18,
+      "player_id": "player_010",
+      "name": "Juliana Lima",
+      "total_points": 200,
+      "exact_scores": 3,
+      "group_1st_correct": 1,
+      "group_1st_2nd_correct": 0,
+      "prize": 0.0
+    },
+    {
+      "rank": 19,
+      "player_id": "player_008",
+      "name": "Fernanda Alves",
+      "total_points": 190,
+      "exact_scores": 4,
+      "group_1st_correct": 0,
+      "group_1st_2nd_correct": 0,
+      "prize": 0.0
+    },
+    {
+      "rank": 20,
+      "player_id": "player_009",
+      "name": "Rafael Souza",
+      "total_points": 140,
+      "exact_scores": 2,
+      "group_1st_correct": 1,
+      "group_1st_2nd_correct": 0,
+      "prize": 0.0
+    }
+  ],
+  "group_standings": {
+    "F": {
+      "first": "CAN",
+      "second": "BEL",
+      "table": [
+        {
+          "team": "CAN",
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "goals_for": 7,
+          "goals_against": 3,
+          "goal_difference": 4,
+          "points": 7
+        },
+        {
+          "team": "BEL",
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 6,
+          "goals_against": 4,
+          "goal_difference": 2,
+          "points": 6
+        },
+        {
+          "team": "MAR",
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goals_for": 2,
+          "goals_against": 6,
+          "goal_difference": -4,
+          "points": 3
+        },
+        {
+          "team": "CRO",
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "goals_for": 3,
+          "goals_against": 5,
+          "goal_difference": -2,
+          "points": 1
+        }
+      ]
+    },
+    "A": {
+      "first": "CMR",
+      "second": "BRA",
+      "table": [
+        {
+          "team": "CMR",
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 6,
+          "goals_against": 4,
+          "goal_difference": 2,
+          "points": 6
+        },
+        {
+          "team": "BRA",
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 5,
+          "goals_against": 4,
+          "goal_difference": 1,
+          "points": 6
+        },
+        {
+          "team": "SUI",
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goals_for": 7,
+          "goals_against": 8,
+          "goal_difference": -1,
+          "points": 3
+        },
+        {
+          "team": "SRB",
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goals_for": 5,
+          "goals_against": 7,
+          "goal_difference": -2,
+          "points": 3
+        }
+      ]
+    },
+    "E": {
+      "first": "ESP",
+      "second": "CRC",
+      "table": [
+        {
+          "team": "ESP",
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "goals_for": 4,
+          "goals_against": 2,
+          "goal_difference": 2,
+          "points": 7
+        },
+        {
+          "team": "CRC",
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 5,
+          "goals_against": 3,
+          "goal_difference": 2,
+          "points": 6
+        },
+        {
+          "team": "JPN",
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goals_for": 5,
+          "goals_against": 4,
+          "goal_difference": 1,
+          "points": 4
+        },
+        {
+          "team": "GER",
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "goals_for": 2,
+          "goals_against": 7,
+          "goal_difference": -5,
+          "points": 0
+        }
+      ]
+    },
+    "C": {
+      "first": "POL",
+      "second": "ARG",
+      "table": [
+        {
+          "team": "POL",
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
+          "lost": 0,
+          "goals_for": 5,
+          "goals_against": 3,
+          "goal_difference": 2,
+          "points": 5
+        },
+        {
+          "team": "ARG",
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goals_for": 3,
+          "goals_against": 3,
+          "goal_difference": 0,
+          "points": 4
+        },
+        {
+          "team": "MEX",
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goals_for": 3,
+          "goals_against": 4,
+          "goal_difference": -1,
+          "points": 4
+        },
+        {
+          "team": "SAU",
+          "played": 3,
+          "won": 0,
+          "drawn": 2,
+          "lost": 1,
+          "goals_for": 1,
+          "goals_against": 2,
+          "goal_difference": -1,
+          "points": 2
+        }
+      ]
+    },
+    "D": {
+      "first": "FRA",
+      "second": "AUS",
+      "table": [
+        {
+          "team": "FRA",
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "goals_for": 5,
+          "goals_against": 1,
+          "goal_difference": 4,
+          "points": 7
+        },
+        {
+          "team": "AUS",
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 4,
+          "goals_against": 3,
+          "goal_difference": 1,
+          "points": 6
+        },
+        {
+          "team": "DEN",
+          "played": 3,
+          "won": 0,
+          "drawn": 2,
+          "lost": 1,
+          "goals_for": 2,
+          "goals_against": 5,
+          "goal_difference": -3,
+          "points": 2
+        },
+        {
+          "team": "TUN",
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "goals_for": 3,
+          "goals_against": 5,
+          "goal_difference": -2,
+          "points": 1
+        }
+      ]
+    },
+    "B": {
+      "first": "IRN",
+      "second": "WAL",
+      "table": [
+        {
+          "team": "IRN",
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
+          "lost": 0,
+          "goals_for": 5,
+          "goals_against": 4,
+          "goal_difference": 1,
+          "points": 5
+        },
+        {
+          "team": "WAL",
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
+          "lost": 0,
+          "goals_for": 5,
+          "goals_against": 4,
+          "goal_difference": 1,
+          "points": 5
+        },
+        {
+          "team": "USA",
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goals_for": 5,
+          "goals_against": 5,
+          "goal_difference": 0,
+          "points": 4
+        },
+        {
+          "team": "ENG",
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "goals_for": 6,
+          "goals_against": 8,
+          "goal_difference": -2,
+          "points": 1
+        }
+      ]
+    },
+    "H": {
+      "first": "NED",
+      "second": "ECU",
+      "table": [
+        {
+          "team": "NED",
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "goals_for": 6,
+          "goals_against": 3,
+          "goal_difference": 3,
+          "points": 7
+        },
+        {
+          "team": "ECU",
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goals_for": 4,
+          "goals_against": 3,
+          "goal_difference": 1,
+          "points": 4
+        },
+        {
+          "team": "SEN",
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goals_for": 3,
+          "goals_against": 3,
+          "goal_difference": 0,
+          "points": 4
+        },
+        {
+          "team": "QAT",
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "goals_for": 4,
+          "goals_against": 8,
+          "goal_difference": -4,
+          "points": 1
+        }
+      ]
+    },
+    "G": {
+      "first": "URU",
+      "second": "GHA",
+      "table": [
+        {
+          "team": "URU",
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 7,
+          "goals_against": 5,
+          "goal_difference": 2,
+          "points": 6
+        },
+        {
+          "team": "GHA",
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 3,
+          "goals_against": 2,
+          "goal_difference": 1,
+          "points": 6
+        },
+        {
+          "team": "POR",
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 5,
+          "goals_against": 5,
+          "goal_difference": 0,
+          "points": 6
+        },
+        {
+          "team": "KOR",
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "goals_for": 4,
+          "goals_against": 7,
+          "goal_difference": -3,
+          "points": 0
+        }
+      ]
+    }
+  }
+}

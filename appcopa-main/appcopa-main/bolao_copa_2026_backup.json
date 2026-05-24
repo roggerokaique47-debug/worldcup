@@ -1,0 +1,282 @@
+{
+  "timestamp": "2026-05-24T16:15:03.497508",
+  "user": {
+    "id": 1,
+    "name": "Rogerio Kaique",
+    "email": "roggerokaique48@gmail.com",
+    "username": "roggero_wc26",
+    "points": 12,
+    "balance": 1900.0,
+    "win_rate": 0.0,
+    "accurate_scores": 0,
+    "level": "Iniciante",
+    "xp": 0,
+    "max_xp": 1000
+  },
+  "clubs": [
+    {
+      "id": 4,
+      "name": "Liga dos Campeões BR",
+      "description": "O grupo oficial para debater futebol com a galera da firma!",
+      "is_private": false,
+      "access_password": "",
+      "entry_fee": 100.0,
+      "prize_first": 70,
+      "prize_second": 20,
+      "prize_third": 10,
+      "member_count": 1,
+      "estimated_prize_pool": 10000.0,
+      "owner_id": 1
+    },
+    {
+      "id": 5,
+      "name": "Copa Ouro 26",
+      "description": "Liga privada de alta performance",
+      "is_private": true,
+      "access_password": "GOLD2026",
+      "entry_fee": 50.0,
+      "prize_first": 70,
+      "prize_second": 20,
+      "prize_third": 10,
+      "member_count": 1,
+      "estimated_prize_pool": 5000.0,
+      "owner_id": 1
+    }
+  ],
+  "matches": [
+    {
+      "id": 7,
+      "group_name": "A",
+      "team_a": "BRA",
+      "team_b": "SUI",
+      "flag_a": "🇧🇷",
+      "flag_b": "🇨🇭",
+      "predicted_score_a": 2,
+      "predicted_score_b": 1,
+      "actual_score_a": 2,
+      "actual_score_b": 1,
+      "date": "24 JUN 2026",
+      "time": "16:00",
+      "stadium": "Maracanã"
+    },
+    {
+      "id": 8,
+      "group_name": "A",
+      "team_a": "SRB",
+      "team_b": "CMR",
+      "flag_a": "🇷🇸",
+      "flag_b": "🇨🇲",
+      "predicted_score_a": 1,
+      "predicted_score_b": 0,
+      "actual_score_a": 0,
+      "actual_score_b": 0,
+      "date": "24 JUN 2026",
+      "time": "16:00",
+      "stadium": "Arena Corinthians"
+    },
+    {
+      "id": 9,
+      "group_name": "A",
+      "team_a": "BRA",
+      "team_b": "SRB",
+      "flag_a": "🇧🇷",
+      "flag_b": "🇷🇸",
+      "predicted_score_a": 3,
+      "predicted_score_b": 1,
+      "actual_score_a": 2,
+      "actual_score_b": 1,
+      "date": "28 JUN 2026",
+      "time": "13:00",
+      "stadium": "Arena Corinthians"
+    },
+    {
+      "id": 10,
+      "group_name": "A",
+      "team_a": "CMR",
+      "team_b": "SUI",
+      "flag_a": "🇨🇲",
+      "flag_b": "🇨🇭",
+      "predicted_score_a": 1,
+      "predicted_score_b": 2,
+      "actual_score_a": 1,
+      "actual_score_b": 1,
+      "date": "28 JUN 2026",
+      "time": "21:00",
+      "stadium": "Mineirão"
+    },
+    {
+      "id": 11,
+      "group_name": "A",
+      "team_a": "BRA",
+      "team_b": "CMR",
+      "flag_a": "🇧🇷",
+      "flag_b": "🇨🇲",
+      "predicted_score_a": 2,
+      "predicted_score_b": 0,
+      "actual_score_a": 3,
+      "actual_score_b": 0,
+      "date": "02 JUL 2026",
+      "time": "17:00",
+      "stadium": "Beira-Rio"
+    },
+    {
+      "id": 12,
+      "group_name": "A",
+      "team_a": "SUI",
+      "team_b": "SRB",
+      "flag_a": "🇨🇭",
+      "flag_b": "🇷🇸",
+      "predicted_score_a": 1,
+      "predicted_score_b": 1,
+      "actual_score_a": 2,
+      "actual_score_b": 2,
+      "date": "02 JUL 2026",
+      "time": "17:00",
+      "stadium": "Mané Garrincha"
+    }
+  ],
+  "predictions": [
+    {
+      "match_id": 7,
+      "user_id": 1,
+      "score_a": 2,
+      "score_b": 1,
+      "timestamp": 1779639303497
+    },
+    {
+      "match_id": 8,
+      "user_id": 1,
+      "score_a": 1,
+      "score_b": 0,
+      "timestamp": 1779639303497
+    },
+    {
+      "match_id": 9,
+      "user_id": 1,
+      "score_a": 3,
+      "score_b": 1,
+      "timestamp": 1779639303497
+    },
+    {
+      "match_id": 10,
+      "user_id": 1,
+      "score_a": 1,
+      "score_b": 2,
+      "timestamp": 1779639303497
+    },
+    {
+      "match_id": 11,
+      "user_id": 1,
+      "score_a": 2,
+      "score_b": 0,
+      "timestamp": 1779639303497
+    },
+    {
+      "match_id": 12,
+      "user_id": 1,
+      "score_a": 1,
+      "score_b": 1,
+      "timestamp": 1779639303497
+    }
+  ],
+  "transactions": [
+    {
+      "id": 2,
+      "type": "deposit",
+      "description": "Bônus de boas-vindas",
+      "method": "System",
+      "amount": 1500.0,
+      "date": "24/05/2026 16:15",
+      "status": "CONCLUÍDO"
+    },
+    {
+      "id": 3,
+      "type": "deposit",
+      "description": "Depósito via Stripe",
+      "method": "Stripe",
+      "amount": 500.0,
+      "date": "24/05/2026 16:15",
+      "status": "CONCLUÍDO"
+    },
+    {
+      "id": 6,
+      "type": "fee",
+      "description": "Criação: Liga dos Campeões BR",
+      "method": "Stripe",
+      "amount": -100.0,
+      "date": "24/05/2026 16:15",
+      "status": "CONCLUÍDO"
+    }
+  ],
+  "standings": [
+    {
+      "name": "BRA",
+      "flag": "🇧🇷",
+      "points": 9,
+      "goal_diff": 5,
+      "goals_scored": 7,
+      "played": 3,
+      "won": 3,
+      "drawn": 0,
+      "lost": 0
+    },
+    {
+      "name": "SUI",
+      "flag": "🇨🇭",
+      "points": 2,
+      "goal_diff": -1,
+      "goals_scored": 4,
+      "played": 3,
+      "won": 0,
+      "drawn": 2,
+      "lost": 1
+    },
+    {
+      "name": "SRB",
+      "flag": "🇷🇸",
+      "points": 2,
+      "goal_diff": -1,
+      "goals_scored": 3,
+      "played": 3,
+      "won": 0,
+      "drawn": 2,
+      "lost": 1
+    },
+    {
+      "name": "CMR",
+      "flag": "🇨🇲",
+      "points": 2,
+      "goal_diff": -3,
+      "goals_scored": 1,
+      "played": 3,
+      "won": 0,
+      "drawn": 2,
+      "lost": 1
+    }
+  ],
+  "analytics": {
+    "user_id": 1,
+    "total_predictions": 6,
+    "accuracy_rate": 66.67,
+    "exact_score_rate": 16.67,
+    "risk_profile": "Moderado",
+    "suggestions": [
+      "Você é bom em placares exatos! Continue assim",
+      "Excelente precisão! Considere ligas de maior valor"
+    ]
+  },
+  "support_report": {
+    "timestamp": "2026-05-24T16:15:03.497440",
+    "total_users": 1,
+    "active_users": 1,
+    "total_clubs": 2,
+    "total_matches": 6,
+    "total_predictions": 6,
+    "revenue_simulated": 150.0,
+    "top_suggestions": [
+      "Adicionar mais ligas temáticas",
+      "Implementar sistema de conquistas",
+      "Melhorar UX na tela de palpites"
+    ]
+  }
+}
