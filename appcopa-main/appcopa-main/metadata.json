@@ -1,0 +1,6 @@
+{
+  "name": "Bolão Copa 2026",
+  "description": "Aplicativo de simulação e montagem de bolão para a copa do mundo 2026 com persistência local e simulação de chaveamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
